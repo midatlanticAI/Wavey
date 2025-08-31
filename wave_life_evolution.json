@@ -1,0 +1,111 @@
+{
+  "final_population": 1,
+  "generation_stats": [
+    {
+      "population": 4,
+      "avg_age": 1.0,
+      "avg_generation": 0.0,
+      "avg_energy": 90.32913961841334,
+      "genetic_diversity": 0.5352011872283313,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 2,
+      "avg_age": 51.0,
+      "avg_generation": 0.0,
+      "avg_energy": 115.08260210724977,
+      "genetic_diversity": 0.2807182667165711,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 3,
+      "avg_age": 70.0,
+      "avg_generation": 0.3333333333333333,
+      "avg_energy": 118.13889487112196,
+      "genetic_diversity": 0.2807182667165711,
+      "oldest_lineage": 1
+    },
+    {
+      "population": 2,
+      "avg_age": 151.0,
+      "avg_generation": 0.0,
+      "avg_energy": 220.20361520579894,
+      "genetic_diversity": 0.2807182667165711,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 1,
+      "avg_age": 201.0,
+      "avg_generation": 0.0,
+      "avg_energy": 465.22564149612384,
+      "genetic_diversity": 0,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 1,
+      "avg_age": 251.0,
+      "avg_generation": 0.0,
+      "avg_energy": 584.9557741437459,
+      "genetic_diversity": 0,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 1,
+      "avg_age": 301.0,
+      "avg_generation": 0.0,
+      "avg_energy": 674.621997744529,
+      "genetic_diversity": 0,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 1,
+      "avg_age": 351.0,
+      "avg_generation": 0.0,
+      "avg_energy": 760.8263409529015,
+      "genetic_diversity": 0,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 1,
+      "avg_age": 401.0,
+      "avg_generation": 0.0,
+      "avg_energy": 927.6231149795634,
+      "genetic_diversity": 0,
+      "oldest_lineage": 0
+    },
+    {
+      "population": 1,
+      "avg_age": 451.0,
+      "avg_generation": 0.0,
+      "avg_energy": 985.0045756709195,
+      "genetic_diversity": 0,
+      "oldest_lineage": 0
+    }
+  ],
+  "successful_genomes": [
+    {
+      "id": 2,
+      "generation": 0,
+      "genome": {
+        "survival_freq": 1.6328404684081068,
+        "survival_amp": 1.2946141893502463,
+        "reproduction_freq": 0.5886714650181408,
+        "reproduction_amp": 0.6639033738870705,
+        "energy_efficiency": 1.1653272021276,
+        "mutation_rate": 0.1203866549776478,
+        "temperature_sensitivity": 1.443684082368887,
+        "resource_detection": 0.888027706396615,
+        "danger_awareness": 0.9148024698981573,
+        "memory_capacity": 0.8202680016389737,
+        "movement_speed": 0.5182479661260792,
+        "communication_range": 1.2095321760548166,
+        "social_learning": 0.5577191793511783,
+        "teaching_willingness": 1.1205464098477187,
+        "learning_from_parents": 0.8242250623669978
+      },
+      "age": 500,
+      "energy": 1106.7269971059543,
+      "offspring": 1
+    }
+  ]
+}
